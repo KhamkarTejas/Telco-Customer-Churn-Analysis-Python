@@ -31,3 +31,10 @@
 - Create loyalty rewards for long-term customers.
 - Offer special plans for Senior Citizens to increase retention.
 - Introduce offers for customers with high Monthly Charges to reduce churn.
+
+### 🔗 Connect With Me
+**Tejas Khamkar**  
+Aspiring Data Analyst 
+[LinkedIn](www.linkedin.com/in/tejaskhamkar) 
+
+⭐ *If you like this project, consider giving it a star on GitHub!*
