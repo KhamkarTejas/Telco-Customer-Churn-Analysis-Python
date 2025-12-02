@@ -2,8 +2,7 @@
 
 ### Objective
 
-- To analyze customer data and identify the main factors responsible for customer churn
-- To understand customer behavior and suggest strategies to improve retention
+The main objective of this project was to analyze a telecom customer dataset to identify the key factors influencing customer churn and to provide actionable recommendations to improve customer retention.
 
 ### Key Insights 
 
